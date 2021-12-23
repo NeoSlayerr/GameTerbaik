@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/FotoProfil"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/foto"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/FotoProfil"
+        android:textSize="30dp"
+        android:layout_marginTop="5dp"
+        android:text="Nicholas Yavin"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nama"
+        android:textSize="20dp"
+        android:layout_marginTop="5dp"
+        android:text="nicolas.yavin10@gmail.com"
+        android:gravity="center"/>
+
+</RelativeLayout>

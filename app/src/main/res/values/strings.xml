@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Game Terlaris</string>
+    <string name="games_name">Nama Game</string>
+    <string name="detail">Detail Game</string>
+
+    <string name="_total">Total Penjualan </string>
+    <string name="_rilis">Tanggal Rilis</string>
+    <string name="_dev">Developer</string>
+    <string name="_publisher">Publisher</string>
+    <string name="_genre">Genre</string>
+    <string name="_platform">Platform</string>
+    <string name="_deskripsi">Deskripsi</string>
+
+    <string name="_tetris">#1 Tetris</string>
+    <string name="_total1">500.000.000 kopi</string>
+    <string name="_rilis1">6 Juni 1984</string>
+    <string name="_dev1">Elektronorgtechnica</string>
+    <string name="_publisher1">Spectrum Holobyte</string>
+    <string name="_genre1">Puzzle</string>
+    <string name="_platform1">Elektronika 60, Acorn Electron,\nAmiga, Amstrad CPC,Amstrad\nPCW, Apple II, Apple IIgs, Atari ST,\nArcade,BBC Micro, CD-i,\nCommodore VIC-20,Commodore\n64, FM-7, Game Boy, Game Boy\nColor, MSX, NES, PC, PC-8801,\nPC-9801, Mega Drive, MS-DOS,\nTRS-90 CoCo, WonderSwan Color,\nX68000, ZX Spectrum, Mac OS</string>
+    <string name="_deskripsi1">"Permainan dimana berbagai macam tetromino yang terdiri dari empat balok akan jatuh. Tujuan dari permainan ini adalah dengan memanipulasi tetromino yang jatuh, dengan menggerakannya ke samping atau memutarnya, sehingga akan terbentuk garis horizontal tanpa celah yang akan menghilang. Permainan berakhir jika tetromino berikutnya terhalang sehingga tidak bisa masuk"</string>
+
+    <string name="_minecraft">#2 Minecraft</string>
+    <string name="_total2">154.000.000 kopi</string>
+    <string name="_rilis2">18 November 2011</string>
+    <string name="_dev2">Mojang</string>
+    <string name="_publisher2">Mojang, Microsoft Studio,\nSony Computer Entertainment</string>
+    <string name="_genre2">Sandbox, Survival</string>
+    <string name="_platform2">Windows, MacOS, Linux</string>
+    <string name="_deskripsi2">"Minecraft difokuskan pada kreativitas dan pembangunan, yang memungkinkan pemain untuk membangun apapun dari kubus bertekstur dalam dunia 3D"</string>
+
+    <string name="_gtav">#3 Grand Theft Auto V</string>
+    <string name="_total3">100.000.000 kopi</string>
+    <string name="_rilis3">17 September 2013</string>
+    <string name="_dev3">Rockstar North</string>
+    <string name="_publisher3">Rockstar Games</string>
+    <string name="_genre3">Action-adventure</string>
+    <string name="_platform3">Playstation 3, Xbox 360,\nPlaystation 4, Xbox One, Windows</string>
+    <string name="_deskripsi3">"Game aksi dan petualangan yang berlatarbelakang negara fiktif di Amerika Serikat yakni San Andreas. Untuk pertama kalinya dalam GTA, tokoh protagonis bukan hanya satu melainkan tiga, yakni Franklin Clinton, Michael dan Trevor Philips"</string>
+
+    <string name="_wiisports">#4 Wii Sports</string>
+    <string name="_total4">82.860.000 kopi</string>
+    <string name="_rilis4">19 November 2006</string>
+    <string name="_dev4">Nintendo EAD</string>
+    <string name="_publisher4">Nintendo</string>
+    <string name="_genre4">Sports</string>
+    <string name="_platform4">Nintendo Wii</string>
+    <string name="_deskripsi4">"Permainan berisi kumpulan dari 5 simulasi olahraga antara lain tenis, baseball, bowling, golf, dan tinju. Pemain menggunakan Wii Remote untuk meniru aksi yang dilakukan dalam olahraga kehidupan nyata"</string>
+
+    <string name="_pubg">#5 PlayerUnknowns Battleground (PUBG)</string>
+    <string name="_total5">50.000.000 kopi</string>
+    <string name="_rilis5">20 Desember 2017</string>
+    <string name="_dev5">PUBG Corporation</string>
+    <string name="_publisher5">PUBG Corporation</string>
+    <string name="_genre5">Battle Royale</string>
+    <string name="_platform5">Windows, Xbox One, Android,\niOS, Playstation 4</string>
+    <string name="_deskripsi5">"Permainan genre battle royale yang bisa dimainkan dengan 100 orang sekaligus secara daring. 100 orang tersebut akan berusaha bertahan hidup dengan saling membunuh di suatu pulau"</string>
+
+    <string name="_pokemon">#6 Pokemon Red/Blue/Green/Yellow</string>
+    <string name="_total6">45.000.000 kopi</string>
+    <string name="_rilis6">27 Februari 1996</string>
+    <string name="_dev6">Game Freak</string>
+    <string name="_publisher6">Nintendo</string>
+    <string name="_genre6">Role-playing</string>
+    <string name="_platform6">Game Boy</string>
+    <string name="_deskripsi6">""Permainan mengumpulkan bermacam jenis monster untuk ditangkap dan dilatih guna menjadi Pokemon Trainer terhebat di seluruh daratan Kanto"</string>
+
+    <string name="_supermario">#7 Super Mario Bros</string>
+    <string name="_total7">40.240.000 kopi</string>
+    <string name="_rilis7">13 September 1985</string>
+    <string name="_dev7">Nintendo Creative Department</string>
+    <string name="_publisher7">Nintendo</string>
+    <string name="_genre7">Platformer</string>
+    <string name="_platform7">Nintendo Entertainment System</string>
+    <string name="_deskripsi7">"Tujuan permainan ini menjelajahi Kerajaan Jamur, menghancurkan dan melawan prajurit Bowser, serta menyelamatkan Putri Toadstool di tingkat akhir dengan menginjak sambil melompati musuh"</string>
+
+    <string name="_mariokart">#8 Mario Kart Wii</string>
+    <string name="_total8">37.140.000 kopi</string>
+    <string name="_rilis8">10 April 2008</string>
+    <string name="_dev8">Nintendo EAD</string>
+    <string name="_publisher8">Nintendo</string>
+    <string name="_genre8">Racing</string>
+    <string name="_platform8">Nintendo Wii</string>
+    <string name="_deskripsi8">"Permainan mengendalikan salah satu dari karakter Mario untuk berpartisipasi dalam balapan menggunakan karts yang menggunakan sensor gerak Wii untuk memberikan kontrol kemudi"</string>
+
+    <string name="_wiisportr">#9 Wii Sports Resort</string>
+    <string name="_total9">33.090.000 kopi</string>
+    <string name="_rilis9">25 Juni 2009</string>
+    <string name="_dev9">Nintendo EAD Group No. 2</string>
+    <string name="_publisher9">Nintendo</string>
+    <string name="_genre9">Sports</string>
+    <string name="_platform9">Nintendo Wii</string>
+    <string name="_deskripsi9">"Permainan olahraga yang bertempat di pantai pulau Wuhu dimana tersedia 12 macam olahraga untuk dimainkan menggunskan kontrol Wii"</string>
+
+    <string name="_diablo">#10 Diablo III</string>
+    <string name="_total10">30.000.000 kopi</string>
+    <string name="_rilis10">15 Mei 2012</string>
+    <string name="_dev10">Blizzard Entertainment</string>
+    <string name="_publisher10">Blizzard Entertainment</string>
+    <string name="_genre10">Action, RPG, Hack and slash</string>
+    <string name="_platform10">Windows, PlayStation 3, Xbox 360,\nPlaystation 4, Xbox One,\nNintendo Switch</string>
+    <string name="_deskripsi10">"Permainan online hack and slash dungeon dimana pemain menggunakan armor dan senjata untuk melawan monster yang berada dalam game. Terdapat 7 pilihan kelas dalam game ini dengan beragam skill yang unik"</string>
+
+</resources>
